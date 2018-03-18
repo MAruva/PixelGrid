@@ -1,2 +1,1 @@
-# PixelGrid
-Pixel Grid maker
+This is a  Pixel Grid art
